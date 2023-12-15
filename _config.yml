@@ -1,7 +1,6 @@
-title: tkl Documentation Website
+title: tkl Doc-Web
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
-#remote_theme: pages-themes/just-the-docs
 
 url: https://tklwin.github.io/docs
 
